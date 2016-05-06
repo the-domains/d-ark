@@ -1,0 +1,28 @@
+name: D-ARK
+favicon: null
+layout_spectrum: 0.9901253602001816
+typography_spectrum: 0.7570056288968772
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.05062658945098519
+  lightness: 0.7679356483276933
+  saturation: 0.7751791854389012
+  rhythmicContrast: 0.652609147829935
+purpose: []
